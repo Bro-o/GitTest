@@ -1,0 +1,26 @@
+# 시스템 파일
+.DS_Store
+Thumbs.db
+
+# 로그 파일
+*.log
+
+# 환경 설정 파일
+.env
+
+# 빌드 결과물
+/dist/
+/build/
+
+# 디렉토리 내부의 모든 내용 무시
+/node_modules/
+/out/
+
+# 임시 파일
+*.tmp
+*.swp
+
+# 특정 IDE/편집기 파일
+.vscode/
+.idea/
+*.iml
